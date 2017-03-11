@@ -1,6 +1,9 @@
 _repo: The-Spell-of-the-Yukon-and-Other-Verses_207
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Songs of a Sourdough
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Service, Robert W. (Robert William)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/117
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Service
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/207#The-Spell-of-the-Yukon-and-Other-Verses
 gutenberg_issued: '1995-01-01'
 gutenberg_type: Text
 identifiers:
